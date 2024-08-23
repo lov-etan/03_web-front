@@ -1,0 +1,6 @@
+{
+    "liveServer.settings.port": 5501,
+
+    "workbench.editor.showTabs" : "single"
+    // "workbench.editor.openPositioning" : "left"
+}
